@@ -1,0 +1,76 @@
+body {
+	background-color: #428ff4;
+}
+.logo {
+	height: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	display: block;
+}
+.big_form{
+	width: 400px;
+	height: 450px;
+	background-color: white;
+	margin-top: 25px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+h1 {
+	text-align: center;
+	padding-top: 30px;
+	font-size: 30px;
+	margin-bottom: 40px;
+}
+label {
+	display: block;
+	margin-left: 40px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+input {
+	padding: 15px;
+	display: block;
+	width: 286px;
+	height: 21px;
+	border: 2px solid gray;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 20px;
+}
+
+button {
+	width: 286px;
+	height: 21px;
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border: 2px;
+	display: block;
+	background-color: #43ad57;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+.inside_p {
+	text-align: center;
+}
+
+.gray_link {
+	color: gray;
+}
+
+.outside_p {
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.white_link {
+	color: white;
+}
